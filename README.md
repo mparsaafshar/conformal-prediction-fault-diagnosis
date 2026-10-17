@@ -1,6 +1,6 @@
 # Uncertainty-Aware Vibration-Based Fault Diagnosis for Electric Motors Using Conformal Prediction
 
-This repository contains the results of the split conformal prediction for uncertainty quantification in vibration-based electric motor fault diagnosis.
+This repository contains the results of the Split Conformal Prediction for uncertainty quantification in vibration-based electric motor fault diagnosis.
 
 ## Evaluation Metrics
 
