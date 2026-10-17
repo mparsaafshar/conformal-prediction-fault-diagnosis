@@ -9,7 +9,6 @@ This repository contains the results of the Split Conformal Prediction for uncer
 - **Empirical Coverage**
 - **Coverage Error**
 - **Average Set Size**
-- **Maximum Set Size**
 
 These metrics characterize the relationship between the desired coverage level and the informativeness of the resulting prediction sets.
 
